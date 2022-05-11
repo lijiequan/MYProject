@@ -6,7 +6,7 @@ public class git_test {
         System.out.println("hello lijiequan2");
         System.out.println("hello lijiequan3");
         System.out.println("hello lijiequan4");
-        System.out.println("hello lijiequan56");
+        System.out.println("hello lijiequan5");
 
     }
 }
